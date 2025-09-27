@@ -1,4 +1,4 @@
-// To run this on a casio calculator, either download the .g1m file into it via USB and copy it from storage memory to main memory, 
+// To run this on a Casio calculator, either download the .g1m file into it via USB and copy it from storage memory to main memory, 
 // or type the transcript into a program file on your calculator.
 // Now, without further ado, on with the transcript!
 
@@ -25,4 +25,5 @@ L->Dim List 2
 For 1->I To L
 List 1[I]->List 2[I]
 Next
+
 List 2
